@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCostCutStick", "MinimumCostCutStick.csproj", "{A36CD9E1-F845-4E79-A5D6-7725E56C61E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36CD9E1-F845-4E79-A5D6-7725E56C61E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36CD9E1-F845-4E79-A5D6-7725E56C61E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36CD9E1-F845-4E79-A5D6-7725E56C61E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36CD9E1-F845-4E79-A5D6-7725E56C61E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E877911F-681F-4B37-A7F9-666035A7F17E}
+	EndGlobalSection
+EndGlobal
